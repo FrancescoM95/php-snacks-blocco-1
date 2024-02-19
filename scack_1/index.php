@@ -27,8 +27,8 @@ $matches = [
     <link rel="icon" type="image/ico" href="./img/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Francesco Mongiello">
-    <meta name="description" content="PHP Snacks">
-    <title>PHP Snacks</title>
+    <meta name="description" content="PHP Snacks 1">
+    <title>PHP Snacks 1</title>
 </head>
 <body>
     <!-- SNACK 1 -->
