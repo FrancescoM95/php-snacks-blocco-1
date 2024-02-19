@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 
 <head>
     <meta charset="UTF-8">
-    <link rel="icon" type="image/ico" href="./img/favicon.ico" />
+    <link rel="icon" type="image/ico" href="../img/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Francesco Mongiello">
     <meta name="description" content="PHP Snacks 3">
